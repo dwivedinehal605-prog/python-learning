@@ -8,7 +8,8 @@ Topics:
 - Dictionaries
 - Conditionals
 - Loops
-- Function
+- Functions
+Author:Nehal Dwivedi
   
   
 
